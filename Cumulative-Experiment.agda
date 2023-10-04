@@ -9,7 +9,7 @@ open import Level
 open import Cubical.Foundations.Prelude hiding (Σ-syntax)
 open import Cubical.Foundations.Equiv
 open import Cubical.Foundations.Univalence
-open import Cubical.Foundations.Isomorphism  -- REMOVE no-eta-reduction on ISO definition
+open import Cubical.Foundations.Isomorphism  -- REMOVE no-eta-equality on ISO definition
 open import Cubical.Foundations.Transport
 
 open import Data.Product.Base
